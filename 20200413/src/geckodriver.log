@@ -1,0 +1,138 @@
+1586737269513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofile4Qo4zU"
+1586737269795	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737270216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737270216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737270216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737270216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737271666	Marionette	INFO	Listening on port 56917
+1586737272129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586737272905	Marionette	INFO	Stopped listening on port 56917
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586737361981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofile1Ko3vx"
+1586737362245	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737362627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737362627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737362627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737362627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737364025	Marionette	INFO	Listening on port 56994
+1586737364095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586737364946	Marionette	INFO	Stopped listening on port 56994
+[Child 15084, Chrome_ChildThread] WARNING: pipe error: 232: file Z:/task_1585933993/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586737381925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofilee5fNxY"
+1586737382179	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737382548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737382548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737382548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737382548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737383966	Marionette	INFO	Listening on port 57064
+1586737384049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586737384843	Marionette	INFO	Stopped listening on port 57064
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586737441999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofile9Dly1d"
+1586737442252	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737442609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737442609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737442609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737442609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737444042	Marionette	INFO	Listening on port 57126
+1586737444111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586737444933	Marionette	INFO	Stopped listening on port 57126
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586737550380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofilew1nrKP"
+1586737550634	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737550993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737550993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737550993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737550993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737552416	Marionette	INFO	Listening on port 57212
+1586737552490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1586737553345	Marionette	INFO	Stopped listening on port 57212
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+JavaScript error: https://dss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/js/lib/jquery-1-edb203c114.10.2.js, line 287: TypeError: win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1586737600482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\YINGYI~1\\AppData\\Local\\Temp\\rust_mozprofile3xVRNn"
+1586737600744	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586737601105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586737601105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586737601105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586737601105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1586737602525	Marionette	INFO	Listening on port 57280
+1586737602593	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pos.baidu.com/cctm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=aab1fcd87731a377f9860c8b12cf2ddd&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1586737624616&ti=%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0407&dbv=0&drs=4&pcs=522x574&pss=1189x2788&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1586737624&prot=2&rw=539&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E7%25A7%25A6%25E7%2589%259B%25E6%25AD%25A3%25E5%25A8%2581%2F23717424%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DnSId3YlctiB2rdzE8qluxhf632wHYSZh4ckup24Fxe7DsoNt2HBvtNbusOEHr1oYlKn-eQhHvVGEHgr26uv1AYs5DeLCwJLaEgRt1K0RwI35M0pJjyYAMdg5N3is5oMq%26wd%3D%26eqid%3D857de825006afdbf000000045e93b1c2&ecd=1&uc=1280x760&pis=-1x-1&sr=1280x800&tcn=1586737625&qn=0e7ab7280f9daf13&tt=1586737624608.11.62.63, line 126: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/cctm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=aab1fcd87731a377f9860c8b12cf2ddd&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1586737624616&ti=%E7%A7%A6%E7%89%9B%E6%AD%A3%E5%A8%81_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0407&dbv=0&drs=4&pcs=522x574&pss=1189x2788&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1586737624&prot=2&rw=539&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E7%25A7%25A6%25E7%2589%259B%25E6%25AD%25A3%25E5%25A8%2581%2F23717424%3Ffr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DnSId3YlctiB2rdzE8qluxhf632wHYSZh4ckup24Fxe7DsoNt2HBvtNbusOEHr1oYlKn-eQhHvVGEHgr26uv1AYs5DeLCwJLaEgRt1K0RwI35M0pJjyYAMdg5N3is5oMq%26wd%3D%26eqid%3D857de825006afdbf000000045e93b1c2&ecd=1&uc=1280x760&pis=-1x-1&sr=1280x800&tcn=1586737625&qn=0e7ab7280f9daf13&tt=1586737624608.11.62.63, line 126: unreachable code after return statement
+1586737625652	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+Sleep@chrome://marionette/content/sync.js:282:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:850:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript warning: https://pos.baidu.com/eclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=f7d41bddd8eb85e6f8569db26aae5ae4&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1586737626806&ti=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%E7%AC%AC%E4%BA%8C%E5%AD%A3_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0407&dbv=0&drs=4&pcs=522x574&pss=1189x13698&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1586737626&prot=2&rw=539&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E9%259D%2592%25E6%2598%25A5%25E6%259C%2589%25E4%25BD%25A0%25E7%25AC%25AC%25E4%25BA%258C%25E5%25AD%25A3%2F23802025&ltr=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E7%25A7%25A6%25E7%2589%259B%25E6%25AD%25A3%25E5%25A8%2581%2F23717424%3Ffr%3Daladdin&ecd=1&uc=1280x760&pis=-1x-1&sr=1280x800&tcn=1586737627&qn=0e7ab7280f9daf13&tt=1586737626798.12.12.13, line 126: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/eclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110011&psi=f7d41bddd8eb85e6f8569db26aae5ae4&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1586737626806&ti=%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%E7%AC%AC%E4%BA%8C%E5%AD%A3_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0407&dbv=0&drs=4&pcs=522x574&pss=1189x13698&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1586737626&prot=2&rw=539&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E9%259D%2592%25E6%2598%25A5%25E6%259C%2589%25E4%25BD%25A0%25E7%25AC%25AC%25E4%25BA%258C%25E5%25AD%25A3%2F23802025&ltr=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E7%25A7%25A6%25E7%2589%259B%25E6%25AD%25A3%25E5%25A8%2581%2F23717424%3Ffr%3Daladdin&ecd=1&uc=1280x760&pis=-1x-1&sr=1280x800&tcn=1586737627&qn=0e7ab7280f9daf13&tt=1586737626798.12.12.13, line 126: unreachable code after return statement
+1586737628031	Marionette	INFO	Stopped listening on port 57280
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
